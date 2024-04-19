@@ -1,11 +1,12 @@
 # SUVEDHA PILLAI
 ## Hi there 👋
-I'm Suvedha Pillai, a passionate computer science student currently pursuing a bachelor's degree from Thakur College. I have a keen interest in problem-solving and enjoy diving into new technologies. I particularly love working on languages and crafting user interfaces. Currently, I'm diving deeper into React JS and appreciating its modularity and dynamic nature. I also have experience working with Wordpress and Figma. Lately, I've been focusing more on backend development for websites.
+I'm Suvedha Pillai, a passionate computer science student currently pursuing a bachelor's degree from Thakur College. I have a keen interest in problem-solving and enjoy diving into new technologies. I particularly love working on languages and crafting user interfaces. Currently, I'm diving deeper into React JS and appreciating its modularity and dynamic nature. I also have experience working with Wordpress and Figma. Lately, I've been focusing more on backend development for websites. Apart from my technical pursuits, I'm a sketcher and drawing enthusiast.
 
 - 🔭 I’m currently working on Backend developement 
 - 🌱 I’m currently learning REACT JS and EXPRESS JS 
 - 📫 How to reach me: devipillaikumar@gmail.com 
-- 😄 Pronouns: She/her 
+- 😄 Pronouns: She/her
+- ✍️🎨 My hobby is sketching and drawing (Check out my sketches on Instagram)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvedha7&theme=darkhub" alt="suvedha7" /></a> </p>
 
